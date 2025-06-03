@@ -1,0 +1,61 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,30
+            m-8,0
+            a8,8 0 1,1 16,0
+            a8,8 0 1,1 -16,0" />
+
+    <!-- Sun rays -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,18 L54,22
+            M54,38 L54,42
+            M42,30 L46,30
+            M62,30 L66,30
+            M44.5,20.5 L47,23
+            M61,23 L63.5,20.5
+            M44.5,39.5 L47,37
+            M61,37 L63.5,39.5" />
+
+    <!-- Cloud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,45
+            c-4,0 -7,3 -7,7
+            c0,4 3,7 7,7
+            h25
+            c3.5,0 6.5,-3 6.5,-6.5
+            c0,-3.5 -3,-6.5 -6.5,-6.5
+            c0,-5 -4,-9 -9,-9
+            c-4,0 -7.5,2.5 -8.5,6
+            c-0.5,-0.3 -1.2,-0.5 -2,-0.5
+            c-2.5,0 -4.5,2 -4.5,4.5" />
+
+    <!-- Temperature indicator -->
+    <path
+        android:fillColor="#FF5722"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M50,65
+            m-3,0
+            a3,3 0 1,1 6,0
+            a3,3 0 1,1 -6,0
+            M50,62
+            L50,70
+            M50,70
+            c-2,0 -4,1.5 -4,4
+            c0,2.5 2,4 4,4
+            h8
+            c2,0 4,-1.5 4,-4
+            c0,-2.5 -2,-4 -4,-4
+            z" />
+</vector>

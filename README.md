@@ -27,7 +27,7 @@ A modern Android weather tracking application that provides real-time weather up
 
 | Main Screen | Weekly Summary | Day wise Summary | Error Handling |
 |------------|----------------|-----------------|-----------------|
-| ![Home](home.png) | ![Week Summary](weekly_summary.png) | ![Day wise detailed summary](daywise_detailed_summary.png) | ![Error Handling](error-handling.png) |
+| ![Home](home.png) | ![Week Summary](weekly_summary.png) | ![Day wise detailed summary](daywise_detailed_summary.png) | ![Error Handling](error_handling.png) |
 
 ##  Tech Stack
 

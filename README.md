@@ -1,4 +1,4 @@
-# WeatherTrack 🌤️
+# WeatherTrack
 
 A modern Android weather tracking application that provides real-time weather updates and historical weather data analysis for any location worldwide.
 
@@ -6,7 +6,7 @@ A modern Android weather tracking application that provides real-time weather up
 ![API](https://img.shields.io/badge/API-21+-brightgreen?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue?style=for-the-badge)
 
-## 📱 Features
+##  Features
 
 ### Core Features
 - **Real-time Weather Data**: Get current weather conditions including temperature, humidity, wind speed, and weather conditions
@@ -23,13 +23,13 @@ A modern Android weather tracking application that provides real-time weather up
 - **WorkManager**: Reliable background task scheduling
 - **Material Design**: Modern UI following Material Design guidelines
 
-## 📸 Screenshots
+##  Screenshots
 
 | Main Screen | Weekly Summary | Location Search |
 |------------|----------------|-----------------|
-| ![Main](screenshots/main.png) | ![Summary](screenshots/summary.png) | ![Search](screenshots/search.png) |
+| ![Home](home.png) | ![Week Summary](weekly_summary.png) | ![Day wise detailed summary](daywise_detailed_summary.png) |![Error Handling](error-handling.png) |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language**: Java
 - **Architecture**: MVVM (Model-View-ViewModel)
@@ -40,7 +40,7 @@ A modern Android weather tracking application that provides real-time weather up
 - **Weather API**: [Open-Meteo API](https://open-meteo.com/)
 - **Geocoding API**: [Open-Meteo Geocoding](https://open-meteo.com/en/docs/geocoding-api)
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 WeatherTrack/
@@ -78,10 +78,10 @@ WeatherTrack/
 │       └── drawable/           # Icons and drawables
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 
-## 📝 Key Components
+##  Key Components
 
 
 ### Repository Pattern
@@ -96,7 +96,7 @@ WorkManager ensures weather data is updated every 6 hours:
 - Works even if the app is closed
 - Requires network connectivity
 
-## 🌐 API Endpoints Used
+##  API Endpoints Used
 
 ### Weather API
 - **Current Weather**: `https://api.open-meteo.com/v1/forecast`
@@ -107,7 +107,7 @@ WorkManager ensures weather data is updated every 6 hours:
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Open-Meteo](https://open-meteo.com/) for providing free weather API
 - [Material Design](https://material.io/) for design guidelines

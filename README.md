@@ -113,9 +113,6 @@ WorkManager ensures weather data is updated every 6 hours:
 - [Material Design](https://material.io/) for design guidelines
 - [Android Developers](https://developer.android.com/) for excellent documentation
 
-
-App Link: [WeatherTrack](https://github.com/wizardoftrap/WeatherTrack)
-
 ---
 
 <p align="center">Made with ❤️ by [Shiv Prakash Verma]</p>
